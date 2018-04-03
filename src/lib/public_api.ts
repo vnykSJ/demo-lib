@@ -1,0 +1,1 @@
+export * from './awesome-footer/awesome-footer.module';
